@@ -1,8 +1,10 @@
-<?php
-/**
- * Created by PhpStorm.
- * User: yannick
- * Date: 7-1-2019
- * Time: 10:37
- */
-echo "hello world";
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Inhouds opgave PHP</title>
+</head>
+<body>
+<a href="h01/page.php">Hoofdstuk 1</a>
+</body>
+</html>
