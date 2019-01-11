@@ -13,7 +13,7 @@
     <title>Arrays, controlestructuren en loops</title>
 </head>
 <body>
-<a href="../index.php">Terug naar inhouds opgave </a>
+<a href="../homepage/index.php">Terug naar inhouds opgave </a>
 <br>
 <?php
 for ($i = 1; $i<=9 ;$i++){

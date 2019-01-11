@@ -8,4 +8,4 @@
 echo "Hello World ";
 ?>
 <br>
-<a href="../index.php">Terug naar de inhouds opgave</a>
+<a href="../homepage/index.php">Terug naar de inhouds opgave</a>

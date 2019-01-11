@@ -19,4 +19,4 @@ echo $a."ik heb alleen ".$c."manieren gevonden ".$b;
 ?>
 
 <br>
-<a href="../index.php">Terug naar inhouds opgave</a>
+<a href="../homepage/index.php">Terug naar inhouds opgave</a>

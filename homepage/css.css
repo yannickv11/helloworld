@@ -1,0 +1,20 @@
+.container {
+    display: grid;
+    grid-template-areas:
+"hoofdstuk1 hoofdstuk2 hoofdstuk3";
+
+}
+.hoofdstuk1 {
+    grid-area: hoofdstuk1;
+
+}
+
+.hoofdstuk2 {
+    grid-area: hoofdstuk2;
+
+}
+
+.hoofdstuk3 {
+    grid-area: hoofdstuk3;
+
+}
