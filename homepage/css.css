@@ -1,20 +1,34 @@
+
 .container {
     display: grid;
     grid-template-areas:
-"hoofdstuk1 hoofdstuk2 hoofdstuk3";
-
+"hoofdstuk1 hoofdstuk2 hoofdstuk3 hoofdstuk4 hoofdstuk5";
 }
+a {
+    color: black;
+}
+
 .hoofdstuk1 {
     grid-area: hoofdstuk1;
-
 }
 
 .hoofdstuk2 {
     grid-area: hoofdstuk2;
-
 }
 
 .hoofdstuk3 {
     grid-area: hoofdstuk3;
-
 }
+.hoofdstuk4 {
+    grid-area: hoofdstuk4;
+}
+.hoofdstuk5 {
+    grid-area: hoofdstuk5;
+}
+h1 {
+    text-align: center;
+}
+
+
+
+
