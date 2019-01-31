@@ -5,8 +5,8 @@
  * Date: 10-1-2019
  * Time: 13:59
  */
-$a = "\"omgaan";
-$b = "met";
+$a = "\"omgaan ";
+$b = "met ";
 $c = "teleu";
 
 

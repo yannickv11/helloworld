@@ -35,6 +35,7 @@
 <br>
 <a href="../h03/page6.php">Hoofdstuk 3 Opdracht 6</a>
 </div>
+
 <div class="hoofdstuk4">
 <a href="../h04/page1.php">Hoofdstuk 4 Opdracht 1</a>
 <br>
@@ -42,8 +43,17 @@
 <br>
 <a href="../h04/page3.php">Hoofdstuk 4 Opdracht 3</a>
 </div>
+
 <div class="hoofdstuk5">
-<a href="">Hoofdstuk 5 Opdracht 1</a>
+<a href="../h05/formulier.html">Hoofdstuk 5 Opdracht 1</a>
+    <br>
+<a href="../h05/formulier2.html">Hoofdstuk 5 Opdracht 2</a>
+    <br>
+<a href="../h05/selectbox.html">Hoofdstuk 5 Opdracht 3</a>
+    <br>
+<a href="../h05/selectbox2.html">Hoofdstuk 5 Opdracht 4</a>
+    <br>
+<a href="../h05/loginpagina.html">Hoofdstuk 5 Opdracht 5</a>
 </div>
 
 

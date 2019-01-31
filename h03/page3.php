@@ -41,7 +41,7 @@ for ($i = 1; $i <=9;$i++) {
     }
 
 
-    echo "<img ".$class." src ='imgphp/pl" . $i . ".jpg'>";
+    echo "<img ".$class." src ='imgphp/img" . $i . ".jpg'>";
 }
 
 
