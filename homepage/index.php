@@ -56,6 +56,10 @@
 <a href="../h05/loginpagina.html">Hoofdstuk 5 Opdracht 5</a>
 </div>
 
+<div class="hoofdstuk6">
+<a href="../h06">Hoofdstuk 6 Opdracht 1</a>
+</div>
+
 
 </div>
 </body>
