@@ -17,7 +17,7 @@
 <br>
 <?php
 for ($i = 1; $i<=9 ;$i++){
-    echo "<img src ='imgphp/".$i.".jpg'>";
+    echo "<img src ='imgphp/pl".$i.".jpg'>";
 }
 ?>
 </body>

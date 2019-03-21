@@ -2,7 +2,7 @@
 .container {
     display: grid;
     grid-template-areas:
-"hoofdstuk1 hoofdstuk2 hoofdstuk3 hoofdstuk4 hoofdstuk5 hoofdstuk6";
+"hoofdstuk1 hoofdstuk2 hoofdstuk3 hoofdstuk4 hoofdstuk5 hoofdstuk6 hoofdstuk7";
     width: 1200px;
     margin: auto;
     background-color: white;
@@ -39,8 +39,14 @@ a {
     grid-area: hoofdstuk6;
     margin-top: 10px;
 }
+.hoofdstuk7 {
+    grid-area: hoofdstuk7;
+    margin-top: 10px;
+}
+
 h1 {
     text-align: center;
+
 }
 
 

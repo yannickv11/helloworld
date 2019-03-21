@@ -6,7 +6,9 @@
     <link rel="stylesheet" href="css.css"
 </head>
 <body>
+<div class="header">
 <h1>Beginnerscursus PHP</h1>
+</div>
 <div class="container">
 <div class="hoofdstuk1">
 <a href="../h01/page.php">Hoofdstuk 1</a>
@@ -57,7 +59,15 @@
 </div>
 
 <div class="hoofdstuk6">
-<a href="../h06">Hoofdstuk 6 Opdracht 1</a>
+<a href="../h06/school.php">Hoofdstuk 6 Opdracht 1</a>
+</div>
+
+<div class="hoofdstuk7">
+<a href="../h07/page1.php">Hoofdstuk 7 Opdracht 1</a>
+    <br>
+<a href="../h07/page2.php">Hoofdstuk 7 Opdracht 2</a>
+    <br>
+<a href="../h07/login.php">Hoofdstuk 7 Opdracht 3</a>
 </div>
 
 
