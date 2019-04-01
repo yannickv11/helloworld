@@ -6,7 +6,7 @@
     width: 1200px;
     margin: auto;
     background-color: white;
-    height: 100vh;
+    height: auto;
 }
 a {
     color: black;
@@ -49,6 +49,13 @@ h1 {
 
 }
 
+.container2 {
+    display: grid;
+    width: 1200px;
+    margin: auto;
+    background-color: white;
+    height: auto;
+}
 
 
 

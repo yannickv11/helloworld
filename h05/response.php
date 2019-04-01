@@ -7,4 +7,4 @@
  */
 echo "<img src='img/".$_POST['img'].".jpg'>";
 echo "<br>";
-echo "<a href='../h05/selectbox.html'>Terug naar de selectbox</a>";
+echo "<a href='selectbox.html'>Terug naar de selectbox</a>";
